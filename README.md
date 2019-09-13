@@ -15,4 +15,4 @@ Use this simple program for more convenient work with comma-separated tables.
 
 2. Отредактируйте файл CSV, как вам нужно.
 
-3. Чтобы превратить CVS файл, лежащий в "middle of the process", обратно в текст надо запустить compile.py, в итоге получится изменённый вами текстовый файл.
+3. Чтобы превратить CVS файл, лежащий в "middle of the process", обратно в текст надо запустить compile.py, в итоге получится измененный вами текстовый файл.
