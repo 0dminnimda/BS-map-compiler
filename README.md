@@ -9,7 +9,7 @@ Use this simple program for more convenient work with comma-separated tables.
 3. To turn the CSV file, located in the "middle of the process" folder, into text, you need to run compile.py, as a result you will get a text file that you changed.
 
 # Компилятор карт BS
-Используйте эту простую программу для более удобной работы с разделенными запятыми таблицами
+Используйте эту простую программу для более удобной работы с таблицами, разделенными запятыми.
 
 1. Положите неразделенный текстовый документ в папку "input", далее запустите decompile.py. По завершении в папке "middle of the process" будет лежать размеченный запятыми файл CSV, более удобный для редактирования, чем текстовый.
 
