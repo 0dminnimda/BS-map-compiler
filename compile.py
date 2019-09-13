@@ -3,7 +3,8 @@ import os
 f_in = './middle of the process/'
 f_out = './output/'
 
-def compile(f_in,f_out):
+
+def compile(f_in, f_out):
     f = open(f_in)
     file = open(f_out[:-4] + ".txt", 'w')
     txt = f.read()
