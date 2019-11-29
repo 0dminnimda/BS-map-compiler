@@ -1,4 +1,5 @@
 # BS map compiler
+# * Recommended for those with different characters in a text editor occupying a different space
 
 Use this simple program for more convenient work with comma-separated tables.
 
@@ -15,6 +16,8 @@ Initially, you need to run the file "initialisation.py".
 4. To turn the CSV file, located in the "middle of the process" folder, into text, you need to run "compile.py", as a result you will get a text file that you changed.
 
 # Компилятор карт BS
+# *рекомендовано для тех, у кого в текстовом редакторе разные символы занимают разное пространство*
+
 Используйте эту простую программу для более удобной работы с таблицами, разделенными запятыми.
 
 Изначально, вам нужно запустить файл "initialisation.py"
