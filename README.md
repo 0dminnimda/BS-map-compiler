@@ -11,6 +11,7 @@ Initially, you need to run the file "initialisation.py".
 (if necessary, you can change the file extension to another table extension)
 
 3. Edit the CSV file as you need.
+(if when opening the csv file the lines remained merged, you need to set a comma, how to separate)
 
 4. To turn the CSV file, located in the "middle of the process" folder, into text, you need to run "compile.py", as a result you will get a text file that you changed.
 
@@ -27,5 +28,6 @@ Initially, you need to run the file "initialisation.py".
 (при надобности можно поменять расширение файла на другое табличное расширение)
 
 3. Отредактируйте файл CSV, как вам нужно.
+(если при открытии csv-файла строки остались слитными, нужно выставить запятую, как разделитеть)
 
 4. Чтобы превратить CVS файл, лежащий в папке "middle of the process", обратно в текст надо запустить "compile.py", в итоге получится изменённый вами текстовый файл.
