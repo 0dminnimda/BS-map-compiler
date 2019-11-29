@@ -11,7 +11,7 @@ Initially, you need to run the file "initialisation.py".
 (if necessary, you can change the file extension to another table extension)
 
 3. Edit the CSV file as you need.
-(if when opening the csv file the lines remained merged, you need to set a comma, how to separate)
+(if when opening the csv-file the lines remained merged, you need to put a comma, like separator)
 
 4. To turn the CSV file, located in the "middle of the process" folder, into text, you need to run "compile.py", as a result you will get a text file that you changed.
 
