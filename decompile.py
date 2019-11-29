@@ -1,3 +1,6 @@
+# --------------------------------------
+# author - https://github.com/0dminnimda
+# --------------------------------------
 import os
 
 f_in = './input/'
@@ -27,6 +30,9 @@ def running(f_in,f_out):
             print(f"There is nothing to work in the folder \"{f_in[2:-1]}\"")
 
 if __name__ == "__main__":
+    print("-"*42)
+    print("| author - https://github.com/0dminnimda |")
+    print("-"*42,"\n")
     try:
         running(f_in,f_out)
     except FileNotFoundError:

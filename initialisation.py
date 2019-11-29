@@ -1,3 +1,6 @@
+# --------------------------------------
+# author - https://github.com/0dminnimda
+# --------------------------------------
 import os
 
 
@@ -15,5 +18,8 @@ def func():
         print ("Initialization completed successfully")
 
 if __name__ == "__main__":
+    print("-"*42)
+    print("| author - https://github.com/0dminnimda |")
+    print("-"*42,"\n")
     func()
     input('\nPress ENTER to exit')
