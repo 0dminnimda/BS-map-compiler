@@ -12,11 +12,13 @@ def decompile(f_in, f_out):
     file = open(f_out[:-4] + ".csv", 'w')
     txt = f.read()
     for lit in range(len(txt)):
-        if txt[lit] != "\n":
+        if txt[lit] == '"':
+            pass
+        elif txt[lit] != "\n":
             file.write(txt[lit] + ",")
         else:
             file.write(txt[lit])
-    print(f"File \"{f_in[10:]}\" decompiled")
+    print(f"File \"{f_in[8:]}\" decompiled")
     f.close()
 
 
