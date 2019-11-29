@@ -1,6 +1,6 @@
 # BS map compiler
-# *Recommended for those with different characters in a text editor occupying a different space
-
+*Recommended for those with different characters in a text editor occupying a different space*
+# 
 Use this simple program for more convenient work with comma-separated tables.
 
 Initially, you need to run the file "initialisation.py".
@@ -17,7 +17,7 @@ Initially, you need to run the file "initialisation.py".
 
 # Компилятор карт BS
 *Рекомендовано для тех, у кого в текстовом редакторе разные символы занимают разное пространство*
-
+# 
 Используйте эту простую программу для более удобной работы с таблицами, разделенными запятыми.
 
 Изначально, вам нужно запустить файл "initialisation.py"
