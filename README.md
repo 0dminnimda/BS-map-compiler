@@ -16,7 +16,7 @@ Initially, you need to run the file "initialisation.py".
 4. To turn the CSV file, located in the "middle of the process" folder, into text, you need to run "compile.py", as a result you will get a text file that you changed.
 
 # Компилятор карт BS
-# *рекомендовано для тех, у кого в текстовом редакторе разные символы занимают разное пространство*
+# *Рекомендовано для тех, у кого в текстовом редакторе разные символы занимают разное пространство*
 
 Используйте эту простую программу для более удобной работы с таблицами, разделенными запятыми.
 
